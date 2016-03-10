@@ -1,0 +1,20 @@
+{
+  "name": "mycontactsapp",
+  "description": "My Contacts MEAN.JS Application",
+  "main": "index.js",
+  "authors": [
+    "Alberto Botero"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "toastr": "^2.1.2",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
